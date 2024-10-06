@@ -9,5 +9,4 @@ This repository contains a simple implementation of the classic Tic-Tac-Toe game
 
 ## Demo
 
-https://github.com/user-attachments/assets/c22c5bf1-f40c-4a7a-b60c-abeb01ad5bc5
-
+![Recording2024-10-06133649-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2770cdb7-260b-42cd-9d5f-78b87b36bdc3)
